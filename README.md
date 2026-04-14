@@ -2,6 +2,8 @@
 
 An Excel-based sales analysis dashboard built using real-world style coffee shop data.
 
+<img width="940" height="389" alt="image" src="https://github.com/user-attachments/assets/2382226e-2c08-4760-b94b-98e9cca26781" />
+
 ## What's in it
 
 - **Dashboard** — Visual summary of key metrics
@@ -14,16 +16,15 @@ An Excel-based sales analysis dashboard built using real-world style coffee shop
 
 - Microsoft Excel
 - Pivot Tables
-- XLOOKUP / INDEX-MATCH formulas
 - Charts & Dashboard design
 
 ## Data Overview
 
 | Sheet | Description |
 |-------|-------------|
-| orders(DATA1) | 1000 orders with customer, product, quantity, sales |
-| customers(DATA2) | Customer info — name, country, loyalty card |
-| products(DATA3) | Coffee types, roast, size, price, profit |
+| ORDERS-DATA | 1000 orders with customer, product, quantity, sales |
+| CUSTOMER-DATA | Customer info — name, country, loyalty card |
+| PRODUCT-DATA | Coffee types, roast, size, price, profit |
 
 ## Key Insights
 
