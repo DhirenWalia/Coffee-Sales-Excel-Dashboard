@@ -4,6 +4,7 @@ An Excel-based sales analysis dashboard built using real-world style coffee shop
 
 <img width="940" height="389" alt="image" src="https://github.com/user-attachments/assets/2382226e-2c08-4760-b94b-98e9cca26781" />
 
+
 ## What's in it
 
 - **Dashboard** — Visual summary of key metrics
