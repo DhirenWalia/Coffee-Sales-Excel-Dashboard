@@ -2,8 +2,6 @@
 
 An Excel-based sales analysis dashboard built using real-world style coffee shop data.
 
-<img width="940" height="389" alt="image" src="https://github.com/user-attachments/assets/2382226e-2c08-4760-b94b-98e9cca26781" />
-
 <img width="1938" height="802" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/4a720ea8-7e15-4001-a66f-1ca0f3dfc847" />
 
 
